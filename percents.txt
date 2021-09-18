@@ -1,0 +1,17 @@
+beat 54.2%
+16:8:10 @epoch 1000 - 44.4%
+
+16 features
+bird frog / cat dog / deer horse / airplane ship / truck automobile
+therefore 5 
+
+16:5:10 @epoch 1000 - 40.6%
+5:10 @epoch 1000 - 47.8%
+5:10 @epoch 2000 - 47.3%
+
+typically blue bg: bird airplance ship frog
+4 legs: cat dog deer horse
+wheels on road: truck automobile
+
+3:5:10 @epoch 1000 - 38.6%
+3:5:10 @epoch 2000 - 39.8%
